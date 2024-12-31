@@ -12,6 +12,9 @@ make
 ```
 
 -g symbolizes grayscale
+
 -c symbolizes color
+
 .bmp indicates it should be compressed
+
 .cbmp indicates it should be decompressed
